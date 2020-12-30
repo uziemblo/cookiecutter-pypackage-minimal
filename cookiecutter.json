@@ -4,10 +4,5 @@
 
     "package_name": "cookiecutter_pypackage_minimal",
     "package_version": "0.1.0",
-    "package_description": "An opinionated, minimal cookiecutter template for Python packages",
-    "package_url": "https://github.com/uziemblo/cookiecutter-pypackage-minimal",
-    
-    "readme_pypi_badge": false,
-    "readme_travis_badge": false,
-    "readme_travis_url": "https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal"
+    "package_description": "An opinionated, minimal cookiecutter template for Python packages"
 }

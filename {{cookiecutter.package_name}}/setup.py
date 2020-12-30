@@ -16,7 +16,7 @@ def read(filename):
 setup(
     name="{{ cookiecutter.package_name }}",
     version="{{ cookiecutter.package_version }}",
-    url="{{ cookiecutter.package_url }}",
+    url="https://github.com/uziemblo/{{ cookiecutter.package_name }}.git",
     license='MIT',
 
     author="{{ cookiecutter.author_name }}",
